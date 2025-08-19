@@ -1,6 +1,6 @@
 ### Análise de Competências e Mercado de Trabalho em Desenvolvimento Web. 
 ---
-### Introdução 
+### Introdução ###
 
 Este relatório tem como objetivo analisar o mercado de trabalho na área de Desenvolvimento Web, identificando as competências técnicas (hard skills) e comportamentais (soft skills) mais demandadas. A pesquisa foi realizada em 5 vagas coletadas em plataformas de empregos como Glassdoor. A análise inclui competências exigidas, tendências tecnológicas, faixas salariais e recomendações de desenvolvimento profissional. 
 ---
