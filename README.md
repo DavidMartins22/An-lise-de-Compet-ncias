@@ -24,11 +24,36 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 ### 💻 Hard Skills Mais Exigidas
 ![Hard Skills Mais Exigidas](img/HardSkillsExigidas.png)
 
+- React.js  
+- Node.js  
+- APIs RESTful  
+- HTML, CSS, JavaScript  
+- MySQL/PostgreSQL  
+- Git/GitHub  
+
+> ⚡ React.js e Node.js são essenciais para o crescimento profissional. APIs RESTful também são muito requisitadas, sendo fundamentais para a construção de aplicações web modernas.
+
 ### 🌟 Hard Skills Desejáveis
 ![Hard Skills Desejáveis](img/HardSkillsDesejavéis.png)
 
+- Next.js  
+- Docker  
+- AWS  
+- TypeScript  
+- React Native
+  
+> 🖱️ Mesmo com frequências diferentes nas vagas pesquisadas, Front-End e TypeScript têm grande importância no mercado.
+
 ### 🧩 Soft Skills Mais Exigidas
 ![Soft Skills Mais Exigidas](img/SoftSkillsMaisExigidas.png)
+
+- Trabalho em equipe  
+- Boa comunicação  
+- Proatividade  
+- Vontade de aprender  
+- Atenção aos detalhes  
+
+> 🤝 Trabalho em equipe e proatividade são essenciais para a colaboração e eficiência em projetos de Desenvolvimento Web.
 
 ---
 
