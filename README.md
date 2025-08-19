@@ -16,7 +16,7 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 > 💡 Observação: Há uma diferença significativa na faixa salarial entre Júnior, Pleno e Sênior. O Júnior varia entre R$ 2.000 e R$ 4.000, o Pleno chega até R$ 13.000, e o Sênior alcança aproximadamente R$ 9.000, podendo variar conforme a empresa.
 
 ### 💰 Faixa Salarial por Nível
-![Faixa Salarial por Nível](images/faixa_salarial.png)
+![Faixa Salarial por Nível](imag/Faixa Salárial.png)
 
 ---
 
