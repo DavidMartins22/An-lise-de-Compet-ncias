@@ -15,35 +15,23 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 
 > 💡 Observação: Há uma diferença significativa na faixa salarial entre Júnior, Pleno e Sênior. O Júnior varia entre R$ 2.000 e R$ 4.000, o Pleno chega até R$ 13.000, e o Sênior alcança aproximadamente R$ 9.000, podendo variar conforme a empresa.
 
+### 💰 Faixa Salarial por Nível
+![Faixa Salarial por Nível](images/faixa_salarial.png)
+
+---
+
 ## 🛠️ Análise de Competências
 
 ### 💻 Hard Skills Mais Exigidas
-- React.js  
-- Node.js  
-- APIs RESTful  
-- HTML, CSS, JavaScript  
-- MySQL/PostgreSQL  
-- Git/GitHub  
-
-> ⚡ React.js e Node.js são essenciais para o crescimento profissional. APIs RESTful também são muito requisitadas, sendo fundamentais para a construção de aplicações web modernas.
+![Hard Skills Mais Exigidas](images/hard_skills.png)
 
 ### 🌟 Hard Skills Desejáveis
-- Next.js  
-- Docker  
-- AWS  
-- TypeScript  
-- React Native  
-
-> Mesmo com frequências diferentes nas vagas pesquisadas, Front-End e TypeScript têm grande importância no mercado.
+![Hard Skills Desejáveis](images/hard_skills_desejaveis.png)
 
 ### 🧩 Soft Skills Mais Exigidas
-- Trabalho em equipe  
-- Boa comunicação  
-- Proatividade  
-- Vontade de aprender  
-- Atenção aos detalhes  
+![Soft Skills Mais Exigidas](images/soft_skills.png)
 
-> 🤝 Trabalho em equipe e proatividade são essenciais para a colaboração e eficiência em projetos de Desenvolvimento Web.
+---
 
 ## 🚀 Tendências Tecnológicas
 - Cloud Computing  
@@ -59,8 +47,12 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 
 **Justificativa:** Escolhi estas competências para aprimorar conhecimentos técnicos e práticos, desenvolver maior percepção para resolução de problemas e fortalecer a proatividade no ambiente profissional.
 
+---
+
 ## 📈 Conclusão
-As habilidades mais requisitadas pelo mercado de Desenvolvimento Web são **JavaScript, React.js, Node.js, HTML, CSS e APIs RESTful**. Entre as tendências tecnológicas emergentes, destacam-se **cloud computing, containers e frameworks modernos**. A média salarial para desenvolvedores varia de **R$ 2.000 (Júnior)** até **R$ 13.000 (Pleno)**, enquanto o nível Sênior pode chegar a **R$ 9.000**, dependendo da empresa e da oportunidade. Focar em **JavaScript, React.js e proatividade** oferece um caminho sólido para crescimento profissional consistente.  
+As habilidades mais requisitadas pelo mercado de Desenvolvimento Web são **JavaScript, React.js, Node.js, HTML, CSS e APIs RESTful**. Entre as tendências tecnológicas emergentes, destacam-se **cloud computing, containers e frameworks modernos**. A média salarial para desenvolvedores varia de **R$ 2.000 (Júnior)** até **R$ 13.000 (Pleno)**, enquanto o nível Sênior pode chegar a **R$ 9.000**, dependendo da empresa e da oportunidade. Focar em **JavaScript, React.js e proatividade** oferece um caminho sólido para crescimento profissional consistente.
+
+---
 
 ## 📚 Referências
 Vagas coletadas em Glassdoor:  
@@ -72,4 +64,4 @@ Vagas coletadas em Glassdoor:
 
 **Nome:** David Botta Martins Jalles  
 **Local:** São Paulo  
-**Data:** 19/08/2025
+**Data:** 18/08/2025
