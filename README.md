@@ -14,7 +14,7 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 | Genius2Work         | Desenvolvedor Fullstack Júnior| Sorocaba - SP  | R$ 2.000 – R$ 3.000   |
 
 ### 💰 Faixa Salarial por Nível
-![Faixa Salarial por Nível](img/FaixaSalárial.png)
+  ![Faixa Salarial por Nível](img/FaixaSalárial.png)
 
 > 💡 Observação: Há uma diferença significativa na faixa salarial entre Júnior, Pleno e Sênior. O Júnior varia entre R$ 2.000 e R$ 4.000, o Pleno chega até R$ 13.000, e o Sênior alcança aproximadamente R$ 9.000, podendo variar conforme a empresa.
 ---
@@ -22,7 +22,7 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 ## 🛠️ Análise de Competências
 
 ### 💻 Hard Skills Mais Exigidas
-![Hard Skills Mais Exigidas](img/HardSkillsExigidas.png)
+  ![Hard Skills Mais Exigidas](img/HardSkillsExigidas.png)
 
 - React.js  
 - Node.js  
@@ -35,7 +35,7 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 ---
 
 ### 🌟 Hard Skills Desejáveis
-![Hard Skills Desejáveis](img/HardSkillsDesejavéis.png)
+  ![Hard Skills Desejáveis](img/HardSkillsDesejavéis.png)
 
 - Next.js  
 - Docker  
@@ -47,7 +47,7 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 ---
 
 ### 🧩 Soft Skills Mais Exigidas
-![Soft Skills Mais Exigidas](img/SoftSkillsMaisExigidas.png)
+  ![Soft Skills Mais Exigidas](img/SoftSkillsMaisExigidas.png)
 
 - Trabalho em equipe  
 - Boa comunicação  
