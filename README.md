@@ -32,6 +32,7 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 - Git/GitHub  
 
 > ⚡ React.js e Node.js são essenciais para o crescimento profissional. APIs RESTful também são muito requisitadas, sendo fundamentais para a construção de aplicações web modernas.
+---
 
 ### 🌟 Hard Skills Desejáveis
 ![Hard Skills Desejáveis](img/HardSkillsDesejavéis.png)
@@ -43,6 +44,7 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 - React Native
   
 > 🖱️ Mesmo com frequências diferentes nas vagas pesquisadas, Front-End e TypeScript têm grande importância no mercado.
+---
 
 ### 🧩 Soft Skills Mais Exigidas
 ![Soft Skills Mais Exigidas](img/SoftSkillsMaisExigidas.png)
