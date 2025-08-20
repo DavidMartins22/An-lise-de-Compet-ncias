@@ -48,7 +48,7 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 ---
 
 ### 🧩 Soft Skills Mais Exigidas
-  ![Soft Skills Mais Exigidas](img/SoftSkillsMaisExigidas.png)
+  ![Soft Skills Mais Exigidas](img/SoftSkillsmaisExigidas.png)
 
 - Trabalho em equipe  
 - Boa comunicação  
