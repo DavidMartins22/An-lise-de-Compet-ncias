@@ -94,4 +94,4 @@ Vagas coletadas em Glassdoor:
 
 **Nome:** David Botta Martins Jalles  
 **Local:** São Paulo  
-**Data:** 18/08/2025
+**Data:** 20/08/2025
