@@ -42,6 +42,7 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 - AWS  
 - TypeScript  
 - React Native
+- Front-End
   
 > 🖱️ Mesmo com frequências diferentes nas vagas pesquisadas, Front-End e TypeScript têm grande importância no mercado.
 ---
