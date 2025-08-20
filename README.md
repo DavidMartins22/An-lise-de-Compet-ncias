@@ -77,7 +77,10 @@ Este relatório tem como objetivo analisar o mercado de trabalho na área de Des
 ---
 
 ## 📈 Conclusão
-As habilidades mais requisitadas pelo mercado de Desenvolvimento Web são **JavaScript, React.js, Node.js, HTML, CSS e APIs RESTful**. Entre as tendências tecnológicas emergentes, destacam-se **cloud computing, containers e frameworks modernos**. A média salarial para desenvolvedores varia de **R$ 2.000 (Júnior)** até **R$ 13.000 (Pleno)**, enquanto o nível Sênior pode chegar de **R$7.000 a R$ 9.000**, dependendo da empresa e da oportunidade. Focar em **JavaScript, React.js e proatividade** oferece um caminho sólido para crescimento profissional consistente.
+As habilidades mais requisitadas pelo mercado de Desenvolvimento Web são **JavaScript, React.js, Node.js, HTML, CSS e APIs RESTful**.  
+Entre as tendências tecnológicas emergentes, destacam-se **cloud computing, containers e frameworks modernos**.  
+A média salarial para desenvolvedores varia de **R$ 2.000 (Júnior)** até **R$ 13.000 (Pleno)**, enquanto o nível **Sênior** pode variar de **R$ 7.000 a R$ 9.000**, podendo alcançar valores maiores dependendo da empresa e da oportunidade.  
+Focar em **JavaScript, React.js e proatividade** oferece um caminho sólido para crescimento profissional consistente 🚀.
 
 ---
 
