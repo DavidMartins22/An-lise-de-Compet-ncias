@@ -92,7 +92,7 @@ Vagas coletadas em Glassdoor:
 - [Shipeezi - Desenvolvedor Fullstack Sênior](https://www.glassdoor.com.br/job-listing/desenvolvedor-fullstack-s%C3%AAnior-shipeezi-JV_IC2479061_KO0,30_KE31,39.htm?jl=1009839690579)  
 - [Genius2Work - Desenvolvedor Fullstack Júnior](https://www.glassdoor.com.br/job-listing/desenvolvedor-fullstack-jr-genius2work-servicos-JV_IC2475809_KO0,26_KE27,47.htm?jl=1009839279498)  
 
-**Nome:** David Botta Martins Jalles
-**Local:** São Paulo  
+**Nome:** David Botta Martins Jalles  
+**Local:** São Paulo 
 **Data:** 22/08/2025
 
