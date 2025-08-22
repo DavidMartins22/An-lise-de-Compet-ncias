@@ -94,7 +94,7 @@ Vagas coletadas em Glassdoor:
 
 **Nome:** David Botta Martins Jalles  
 **Universidade:** Cruzeiro do Sul Virtual  
-**RMG:** 45985049  
+**RGM:** 45985049  
 **Local:** São Paulo  
 **Data:** 22/08/2025 
 
