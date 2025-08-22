@@ -90,7 +90,8 @@ Vagas coletadas em Glassdoor:
 - [OEmprego Vagas Brasil - Desenvolvedor Web](https://www.glassdoor.com.br/job-listing/desenvolvedor-web-sao-paulo-oemprego-vagas-brasil-JV_IC2479061_KO0,27_KE28,49.htm?jl=1009835875222)  
 - [LOGSUP Logística - Desenvolvedor Júnior](https://www.glassdoor.com.br/job-listing/desenvolvedor-j%C3%BAnior-logsup-logistica-e-transportes-JV_IC2479061_KO0,20_KE21,51.htm?jl=1009836709221)  
 - [Shipeezi - Desenvolvedor Fullstack Sênior](https://www.glassdoor.com.br/job-listing/desenvolvedor-fullstack-s%C3%AAnior-shipeezi-JV_IC2479061_KO0,30_KE31,39.htm?jl=1009839690579)  
-- [Genius2Work - Desenvolvedor Fullstack Júnior](https://www.glassdoor.com.br/job-listing/desenvolvedor-fullstack-jr-genius2work-servicos-JV_IC2475809_KO0,26_KE27,47.htm?jl=1009839279498)  
+- [Genius2Work - Desenvolvedor Fullstack Júnior](https://www.glassdoor.com.br/job-listing/desenvolvedor-fullstack-jr-genius2work-servicos-JV_IC2475809_KO0,26_KE27,47.htm?jl=1009839279498)
+---  
 
 **Nome:** David Botta Martins Jalles  
 **Universidade:** Cruzeiro do Sul Virtual  
